@@ -1,0 +1,7 @@
+{
+  "name": "MimiTalks",
+  "description": "An interactive AI voice studio featuring distinct Hinglish personalities for content creators. Powered by AI Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
